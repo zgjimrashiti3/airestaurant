@@ -78,8 +78,13 @@ User → Frontend → Backend API → Menu Data / Vector DB → LLM → Response
 ---
 
 ## Goal
+
+
 Build a production-style AI assistant that demonstrates:
 - LLM integration
 - retrieval systems
 - structured prompt engineering
 - full-stack architecture
+
+
+test
